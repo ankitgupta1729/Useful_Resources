@@ -1,0 +1,6 @@
+https://www.kdnuggets.com/a-comprehensive-list-of-resources-to-master-large-language-models
+https://www.kdnuggets.com/2023/03/top-free-courses-large-language-models.html
+https://www.coursera.org/courses?query=large%20language%20models
+https://www.geeksforgeeks.org/10-free-resources-to-learn-large-language-models-llms/?ref=oin_asr16
+https://www.cliffsnotes.com/study-notes/19266877
+https://jalammar.github.io/
